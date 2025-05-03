@@ -9,7 +9,9 @@
 }
 
 .footer__logo img {
-  width: calc(100% - 70%);
+  width: calc(100% - 80%);
+  height: calc(100% - 80%);
+  margin-top: 1.5 rem;
   margin-bottom: 1.5rem;
 }
 
@@ -53,6 +55,7 @@
     flex-direction: column;
     text-align: center;
     gap: 1rem;
+    
   }
 
   .footer__logo img {

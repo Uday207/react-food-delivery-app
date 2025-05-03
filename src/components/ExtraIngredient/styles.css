@@ -10,10 +10,11 @@
 
 /* The container */
 .container {
+  padding-top: 2rem;
   display: block;
   position: relative;
   cursor: pointer;
-  font-size: 22px;
+  font-size: 23px;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
